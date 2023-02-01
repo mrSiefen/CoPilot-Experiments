@@ -63,7 +63,7 @@ Signed,
 P.S. One of my favorite Speeches from Douglas Adams at PDC 1996 (I was 1 Years Old!):
 
 ```
-"I've spoken from time at publishing events or television events or journalism events. And there was a whole phase when people would come up to me and say afterwards, 'yeah I hear you know something about computers' and I say 'well yeah a little bit'. 'Well we're a little bit terribly terribly worried so what exactly is the effect of computers going to be on the publishing business?' or 'what is the effect of computers going to be on the on the television business?' and largely they are hoping for the answer not very much. 
+I've spoken from time at publishing events or television events or journalism events. And there was a whole phase when people would come up to me and say afterwards, 'yeah I hear you know something about computers' and I say 'well yeah a little bit'. 'Well we're a little bit terribly terribly worried so what exactly is the effect of computers going to be on the publishing business?' or 'what is the effect of computers going to be on the on the television business?' and largely they are hoping for the answer not very much. 
 
 But the issue was this, that if you have to ask the question then you're not ready for the answer because it's rather like the Mississippi River or the Amazon or the Nile saying 'well what effect is the coming of the Atlantic Ocean going have on me and the answer is that River rules will no longer apply. and you'll be able to tell the people who are out there in the middle of the Atlantic Ocean trying to build riverbanks around themselves because they'll be the people are going out of business. 
 
