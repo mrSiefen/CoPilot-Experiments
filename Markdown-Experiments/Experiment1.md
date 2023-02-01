@@ -1,7 +1,7 @@
 # This is a copilot generated Readme.md file for the CoPilot Experiments Repository
 
 ```
-[//]: # (This is technically a markdown comment... CoPilot can see this, but a user cannot. If you dont believe me, try it out. Click on the raw button and you will see the comments.)
+[//]: # (This is technically a markdown comment... CoPilot can see this, but a user cannot. If you don't believe me, try it out. Click on the raw button and you will see the comments.)
 ```
 
 [//]: # (Generate a table of contents below as an H2 that has a list of links to the H3s below it. The links will be generated automatically by Github Copilot)
