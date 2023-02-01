@@ -1,0 +1,34 @@
+<!-- HTML5 Template -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>MegaPodeCalc</title>
+    <meta name="description" content="Megapode Nest Volume Calculator">
+    <meta name="author" content="Mr. Siefen's Robot Emporium">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Megapode Nest Volume Calculator</h1>
+    <p>Enter the dimensions of your Megapode Nest in centimeters.</p>
+    <form action="index.php" method="post">
+        <label for="length">Length:</label>
+        <input type="text" name="length" id="length" value="0">
+        <label for="width">Width:</label>
+        <input type="text" name="width" id="width" value="0">
+        <label for="height">Height:</label>
+        <input type="text" name="height" id="height" value="0">
+        <input type="submit" value="Calculate">
+    </form>
+    <p>
+        <?php
+            $length = $_POST['length'];
+            $width = $_POST['width'];
+            $height = $_POST['height'];
+            $volume = $length * $width * $height;
+            echo "The volume of your Megapode Next is $volume cubic centimeters.";
+        ?>
+    </p>
+</html>
