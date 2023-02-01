@@ -1,0 +1,48 @@
+//CSS style using the theme colors of the HyperCard stack
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: 0px;
+    padding: 0px;
+}
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2rem;
+}
+a {
+    color: #4d00c9;
+    text-decoration: none;
+}
+.credits {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem;
+    padding: 0px;
+}
+#volume {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}

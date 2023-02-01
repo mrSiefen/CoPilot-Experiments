@@ -13,22 +13,31 @@
 <body>
     <h1>Megapode Nest Volume Calculator</h1>
     <p>Enter the dimensions of your Megapode Nest in centimeters.</p>
-    <form action="index.php" method="post">
-        <label for="length">Length:</label>
-        <input type="text" name="length" id="length" value="0">
-        <label for="width">Width:</label>
-        <input type="text" name="width" id="width" value="0">
-        <label for="height">Height:</label>
-        <input type="text" name="height" id="height" value="0">
-        <input type="submit" value="Calculate">
-    </form>
-    <p>
-        <?php
-            $length = $_POST['length'];
-            $width = $_POST['width'];
-            $height = $_POST['height'];
-            $volume = $length * $width * $height;
-            echo "The volume of your Megapode Next is $volume cubic centimeters.";
-        ?>
-    </p>
+    <label for="length">Length:</label>
+    <input type="text" name="length" id="length" value="0">
+    <label for="width">Width:</label>
+    <input type="text" name="width" id="width" value="0">
+    <label for="height">Height:</label>
+    <input type="text" name="height" id="height" value="0">
+    <input type="submit" onclick="calculate()">
+    <br>
+    <br>
+    <p>Volume:</p>
+    <p id="volume"></p>
+
+    <br>
+    <p class="credits">The Original <a href="https://archive.org/details/DouglasAdamsMegapode" target="_blank">Megapode Nest Volume Calculator</a>, Made by Douglas Adams and hosted by The Internet Archive</p>
+
+    <script>
+        function calculate() {
+            var length = document.getElementById("length").value;
+            var width = document.getElementById("width").value;
+            var height = document.getElementById("height").value;
+            var volume = length * width * height;
+            //volume to String
+            var answer = volume.toString() + " cm3";
+            document.getElementById("volume").innerText = answer;
+        }
+        </script>
+</body>
 </html>
