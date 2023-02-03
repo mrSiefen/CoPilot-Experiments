@@ -21,8 +21,8 @@ CoPilot uses machine learning to understand the context of your code and suggest
 #### What are the keyboard shortcuts?
 
 -   `Tab` to accept a suggestion
--   `Alt + ]` next suggestion
--   `Alt + [` previous suggestion
+-   `Ctrl+ ]` next suggestion
+-   `Ctrl + [` previous suggestion
 -   `Ctrl + Enter` to view the full list of suggestions
 
 ### How do I use it with VSCode?
