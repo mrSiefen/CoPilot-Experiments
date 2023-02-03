@@ -25,6 +25,10 @@ CoPilot is like auto complete on steroids! By using machine learning, and being 
 
 Thankfully many teams use the WPILib VSCode ide. This means that you can use CoPilot with it! CoPilot is available as a VSCode extension. You will need to sign up for an account on the CoPilot website. This also requires you to sign up for a free GitHub account and I would recommend setting it up under the Student Resource Pack.
 
+After signing up for an account, and installing the CoPilot extension, you can start using it. You can use CoPilot by typing in your code and then pressing `Alt + Enter` to show the CoPilot suggestions. You can then use the arrow keys to move up and down the list of suggestions. You can also use the mouse to select a suggestion. 
+
+As you are writing your code suggestions will appear. You can use these suggestions to help you write your code. To turn off CoPilot you can deactivate the extension by clicking the copilot icon on the bottom right section of the screen.
+
 ## Keyboard Controls
 
 CoPilot can be used with the keyboard. Here are some keyboard shortcuts that you can use:
