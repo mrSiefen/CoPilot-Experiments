@@ -13,7 +13,7 @@
 -   [How can I get more information about CoPilot?](#how-can-i-get-more-information-about-copilot)
 -   [How can I get more information about the Student Resource Pack?](#how-can-i-get-more-information-about-the-student-resource-pack)
 -   [What are some cool experiments that I can do with CoPilot?](#what-are-some-cool-experiments-that-i-can-do-with-copilot)
--   [Summary](#summary)
+-   [Conclusion](#conclusion)
 
 ## What is CoPilot?
 
