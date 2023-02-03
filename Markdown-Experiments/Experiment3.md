@@ -51,6 +51,21 @@ Okay, no more boxes or large things. Lets talk about towels, that come in a bag.
 
 A towel is the most important thing in the Universe. It can keep you dry, it can keep you warm, it can keep you cool, it can keep you clean, it can keep you safe, it can keep you happy, it can keep you healthy. 
 
+### Experiment 3.2 randomly generated text starting with a sentence from another spot in the book
+
+“Ford... you're turning into a penguin. Stop it.”
+― Douglas Adams, The Hitchhiker's Guide to the Galaxy
+
+
+Ford... you're turning into a penguin. Stop it. It is a very important illusion, but it is an illusion. Illusions help us understand the world around us, but they are not the world around us. This doesn't seem to have made much of a difference to the people who have been vocal about their displeasure, and have been heard from time to time. Many of these same people spend an awful lot of time trying to convince people that they are wrong. They are not.
+
+Being a penguin is not a bad thing. You are able to 
+
+### Experiment 3.3 randomly generated text starting with a sentence from a third spot in the book
+
+“Don't Panic” - Douglas Adams
+
+
 other experiments:
 
 [Experiment 1](Experiment1.md)

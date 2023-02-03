@@ -33,10 +33,10 @@ As you are writing your code suggestions will appear. You can use these suggesti
 
 CoPilot can be used with the keyboard. Here are some keyboard shortcuts that you can use:
 
--   `Alt + Enter` - Show CoPilot suggestions
--   `Alt + ]` - Move up in the CoPilot suggestions list
--   `Alt + [` - Move down in the CoPilot suggestions list
--   `Tab` - Accept the current CoPilot suggestion
+-   `Ctrl + Enter` - Show CoPilot suggestions
+-   `Ctrl + ]` - Move up in the CoPilot suggestions list
+-   `Ctrl + [` - Move down in the CoPilot suggestions list
+-   `Ctrl` - Accept the current CoPilot suggestion
 
 ## What are the main benefits for STEM students?
 
