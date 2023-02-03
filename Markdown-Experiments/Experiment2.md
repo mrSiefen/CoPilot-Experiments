@@ -119,7 +119,7 @@ Here are some cool experiments that you can do with CoPilot:
 -   Create a new command using CoPilot
 -   Create a new command group using CoPilot
 -   Create Shuffleboard widgets using CoPilot
--   Create a team website using CoPilot
+-   [Create a team website using CoPilot](https://github.com/mrSiefen/CoPilot-Experiments/tree/main/Website-Experiments/frcWebsite)
 -   Create a team blog using CoPilot
 -   Create a team wiki using CoPilot
 -   Create arduino code for Pit Display using CoPilot
