@@ -74,6 +74,8 @@
     text-align: center;
     color: white;
     background-color: rgb(100, 100, 100);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .contents h1 {
@@ -97,6 +99,11 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    /* lock the footer to the bottom of the page at all times */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 body {
