@@ -98,3 +98,8 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+body {
+    background-color: black;
+    color: white;
+}
