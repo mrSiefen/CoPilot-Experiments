@@ -4,6 +4,7 @@
 
 -   [What is CoPilot?](#what-is-copilot)
 -   [How can I use it for FRC?](#how-can-i-use-it-for-frc)
+-   [keyboard Controls](#keyboard-controls)
 -   [What are the main benefits for STEM students?](#what-are-the-main-benefits-for-stem-students)
 -   [What are the main benefits for FRC teams?](#what-are-the-main-benefits-for-frc-teams)
 -   [How can students and educators get the Student Resource Pack?](#how-can-students-and-educators-get-the-student-resource-pack)
@@ -23,6 +24,15 @@ CoPilot is like auto complete on steroids! By using machine learning, and being 
 ## How can I use it for FRC?
 
 Thankfully many teams use the WPILib VSCode ide. This means that you can use CoPilot with it! CoPilot is available as a VSCode extension. You will need to sign up for an account on the CoPilot website. This also requires you to sign up for a free GitHub account and I would recommend setting it up under the Student Resource Pack.
+
+## Keyboard Controls
+
+CoPilot can be used with the keyboard. Here are some keyboard shortcuts that you can use:
+
+-   `Alt + Enter` - Show CoPilot suggestions
+-   `Alt + ]` - Move up in the CoPilot suggestions list
+-   `Alt + [` - Move down in the CoPilot suggestions list
+-   `Tab` - Accept the current CoPilot suggestion
 
 ## What are the main benefits for STEM students?
 
